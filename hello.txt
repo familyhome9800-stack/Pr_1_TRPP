@@ -1,1 +1,1 @@
-hello, world! (изменено в master)
+hello, world! (итоговый вариант после слияния)
